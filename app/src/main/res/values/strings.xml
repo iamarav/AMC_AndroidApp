@@ -1,0 +1,250 @@
+<resources>
+    <string name="app_name">Ayurveda To Modern Converter</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">AMC</string>
+    <string name="nav_header_subtitle">we@dozy.in</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="txt_intro">Hello, Welcome to AMC.</string>
+    <string name="home_page_action_intro">Choose from the below actions.</string>
+    <string name="home_page_btn1">Open Calculator</string>
+    <string name="home_page_btn2">What is Ayurveda?</string>
+    <string name="home_page_btn3">Unit Tables</string>
+
+    <string name="home_page_btn4">Developer Info</string>
+    <string name="title_activity_developer_info">Developer Info</string>
+
+
+    <string name="title_activity_calculator">Calculator</string>
+    <string name="tab_text_1">Length</string>
+    <string name="tab_text_2">Time</string>
+    <string name="tab_text_3">Weight</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="developer_info"></string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="length_spinner">
+        <item>Select one of the following Units.</item>
+        <item>YAVODARA</item>
+        <item>ANGULA</item>
+        <item>BITAHASTI</item>
+        <item>ARATNI</item>
+        <item>HASTA</item>
+        <item>RAJAHASTA (NRIPAHASTA)</item>
+        <item>VYAMA</item>
+        <item>Meter</item>
+        <item>Kilometer</item>
+        <item>Centimeter</item>
+        <item>Millimeter</item>
+        <item>Micrometer</item>
+        <item>Nanometer</item>
+        <item>Mile</item>
+        <item>Yard</item>
+        <item>Foot</item>
+        <item>Inch</item>
+
+    </string-array>
+
+    <string-array name="weight_spinner">
+        <item>Select from the below units</item>
+        <item>PARMANU</item>
+        <item>DHAVANSHI</item>
+        <item>MARICHI</item>
+        <item>LAL SARSHAP</item>
+        <item>TUNDAL</item>
+        <item>DHANYAMASH</item>
+        <item>YAVA</item>
+        <item>RATTI</item>
+        <item>ANDIKA</item>
+        <item>MASHAK(MASA)</item>
+        <item>SHAAN</item>
+        <item>KOL</item>
+        <item>TOLA</item>
+        <item>KARSHA</item>
+        <item>SHUKTI</item>
+        <item>PAL</item>
+        <item>CHHATANK</item>
+        <item>PRASRTIS</item>
+        <item>CHHATAAK</item>
+        <item>KUDAV</item>
+        <item>MANIKA</item>
+        <item>PRASTHA (PRASTH)</item>
+        <item>SER (SERA or SEER)</item>
+        <item>ADHAKA (AADAK)</item>
+        <item>TULA</item>
+        <item>DRONA (DRON)</item>
+        <item>SURPA (SHOORP)</item>
+        <item>DRONI</item>
+        <item>BHARA</item>
+        <item>KHARI</item>
+        <item>Kilogram</item>
+        <item>Gram</item>
+        <item>Milligram</item>
+        <item>Metric Ton</item>
+        <item>Long Ton</item>
+        <item>Short Ton</item>
+        <item>Pound</item>
+        <item>Ounce</item>
+        <item>Carrat</item>
+    </string-array>
+
+    <string-array name="time_spinner">
+        <item>Select one of the following Units.</item>
+        <item>KSANA</item>
+        <item>LAVA</item>
+        <item>NIMESHA</item>
+        <item>KASTHA</item>
+        <item>KALA</item>
+        <item>GHATI</item>
+        <item>MUHURTA</item>
+        <item>AHORATRA</item>
+        <item>PAKSA</item>
+        <item>MASA</item>
+        <item>RITU</item>
+        <item>AYANA</item>
+        <item>SAMVATSARA</item>
+        <item>YUGA</item>
+        <item>Second</item>
+        <item>Millisecond</item>
+        <item>Microsecond</item>
+        <item>Nanosecond</item>
+        <item>Picosecond</item>
+        <item>Minute</item>
+        <item>Hour</item>
+        <item>Day</item>
+        <item>Week</item>
+        <item>Month</item>
+        <item>Year</item>
+    </string-array>
+
+    <string name="title_activity_ayurveda_info">What is Ayurveda?</string>
+    <string name="what_is_ayurveda">Ayurveda is an ancient system of life (ayur) knowledge (veda) arising in India thousands of years ago. Ayurveda theory evolved from a deep understanding of creation. The great rishis or seers of ancient India came to understand creation through deep meditation and other spiritual practices. The rishis sought to reveal the deepest truths of human physiology and health. They observed the fundamentals of life, organized them into an elaborate system, and compiled India\'s philosophical and spiritual texts, called Veda of knowledge. \n
+
+\nAyurveda was first recorded in the Veda, the world\'s oldest existing literature. The three most important Veda texts containing the original and complete knowledge of Ayurveda, believed to be over 1200 years old, is still in use today. These Ayurvedic teachings were customarily passed on orally from teacher to student for over 1000 years. The wisdom of Ayurveda is recorded in Sanskrit, the ancient language of India that reflects the philosophy behind Ayurveda and the depth within it.\n
+
+Ayurveda greatly influenced health care practices in the east and the west. By 400 AD Ayurvedic works were translated into Chinese; by 700 AD Chinese scholars were studying medicine in India at Nalanda University. Chinese medicine, herbology and Buddhist philosophy were also impacted by Ayurvedic knowledge. Having passed the test of experience it remains essentially the same now as at its inception, although numerous commentators over the centuries have added insight with their analyses.
+
+\n\nThe philosophy of Ayurveda teaches a series of conceptual systems characterized by balance and disorder, health and disease. Disease/health results from the interconnectedness between the self, personality, and everything that occurs in the mental, emotional, and spiritual being. To be healthy, harmony must exist between the purpose for healing, thoughts, feelings and physical action.
+
+\n\nAyurveda is a careful integration of six important Indian philosophical systems, many physical/behavioral sciences, and the medical arts. One verse from an ancient authority says Ayurveda deals with what is good life and bad life, happiness and misery, that which supports or destroys, and the measurement of life. It works to heal the sick, to maintain health in the healthy, and to prevent disease in order to promote quality of life and long life. Health is defined as an experience of bliss/happiness in the soul, mind, and senses and balance of the body\'s three governing principles, seven tissues, three wastes, digestion, and other processes such as immune functioning. Health is not the absence of symptoms. Ayurveda has objective ways to assess each of these, pulse assessment being the primary means.
+
+\n\nIts central tenet is that life is a combination of body, mind, senses, and spirit (more than a mind-body system). Nothing exists but for the pre-existence of and working of a Supreme Intelligence/Consciousness an elemental, all-powerful, all-pervading spirit-energy that expresses Itself through and in the creation. Ayurveda seeks to know this aspect of life, the subjective (internal) as well as the objective (outer).
+
+\n\nIt is central to Ayurveda that the functioning of all creation, the mineral, plant and animal kingdoms, can be understood as the interactions of three fundamental energy complexes (erroneously called doshas). The three energies are vata, pitta and kapha signifying the dynamic or mobile, energetic, nonmaterial aspect of nature; the transformative, intelligence aspect; and the structural, physical aspect respectively. Vata governs respiration, circulation, elimination, locomotion, movement, speech, creativity, enthusiasm, and the entire nervous system. Pitta governs transformations such as digestion and metabolism, vision, complexion, body temperature, courage, cheerfulness, intellection and discrimination. Kapha governs growth (anabolic processes), lubrication, fluid secretions, binding, potency, patience, heaviness, fluid balance, compassion, and understanding in the organism. All have physical expressions in the body.
+
+\n\nIn the human physiology these three energies tend to interact in a harmonious and compensatory way to govern and sustain life. Their relative expression in an individual implies a unique ratio of functioning of these governing principles according to each person's unique DNA (vta-pitta-kapha ratio) determined at conception. This is body or constitutional typing, called prakruti. There are seven types � vata type, pitta type, kapha type and combinations thereof.
+
+\n\nPrakruti yields two important understandings. A person has a permanent or stable nature for the entire life and efforts to maintain or change physiology must keep this balance point in mind. In addition each type will suggest an area tending to go out of balance, a disease tendency, requiring lifelong attention to maintain balance. A vata type naturally tends to constipation, arthritis, anxiety; a pitta type tends towards inflammations, infections, ulcers; and kapha types tend to overweight, diabetes, congestive disorders, etc. The implication of pakruti is that it helps explain why people react differently to the same things. The medical implication for this is that certain people will have a natural predisposition or sensitivity to certain medicines and this can be predicted.
+
+\n\nWhy does imbalance occur? It occurs because one or more of the energies or elements described above gets increased quantitatively or altered qualitatively. There is no human experience, whether a thought, an emotion, the climate, food, lifestyle, etc. that does not have at least one of the twenty qualities which, by its action, yields an effect in the physiology.
+
+\n\nClassically, the nature of the causative factors are the result of mistakes of intellection (failure to perceive things as they are), inappropriate use of the sense organs, and mistakes of time (doing even proper things at the wrong time). While DNA gives the body one set of instructions, the life experiences at every moment are giving the governing principles perhaps another message. Since these three governing principles are nothing but energy themselves, they can be influenced �increased or decreased � by like or opposite energies. Heat increases pitta, dryness increases vata, and liquid increases kapha, etc. Thus imbalance is the continued experience of some stimulus mental, emotional, or physical, real or imagined - that overwhelms the body's ability to maintain its identity, its prakruti or vata-pitta-kahpa ratio. When a stimulus and a system have the same energy the stimulus promotes more of its value in the system. Like increases like which can lead to imbalance even though they are not necessarily unhealthy influences in themselves � properly cooked organic food when taken in excess or at the wrong time promotes imbalance. With time and chronicity and some defective space in the organism (from genes, prior disease, trauma, congenital defect, etc.), disease can develop and manifest in the weak organ or tissue. When disease begins to manifest the governing principles are called doshas, meaning impurities, which can pollute or contaminate the physiology.</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+        "Motion provides meaning.\n\n"
+
+        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
+        "inflection points that initiate motion, transforming the whole design.\n"
+        "All action takes place in a single environment. Objects are presented to the user without "
+        "breaking the continuity of experience even as they transform and reorganize.\n"
+        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
+        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
+
+        "3D world.\n\n"
+
+        "The material environment is a 3D space, which means all objects have x, y, and z "
+        "dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the "
+        "positive z-axis extending towards the viewer. Every sheet of material occupies a single "
+        "position along the z-axis and has a standard 1dp thickness.\n"
+        "On the web, the z-axis is used for layering and not for perspective. The 3D world is "
+        "emulated by manipulating the y-axis.\n\n"
+
+        "Light and shadow.\n\n"
+
+        "Within the material environment, virtual lights illuminate the scene. Key lights create "
+        "directional shadows, while ambient light creates soft shadows from all angles.\n"
+        "Shadows in the material environment are cast by these two light sources. In Android "
+        "development, shadows occur when light sources are blocked by sheets of material at "
+        "various positions along the z-axis. On the web, shadows are depicted by manipulating the "
+        "y-axis only. The following example shows the card with a height of 6dp.\n\n"
+
+        "Resting elevation.\n\n"
+
+        "All material objects, regardless of size, have a resting elevation, or default elevation "
+        "that does not change. If an object changes elevation, it should return to its resting "
+        "elevation as soon as possible.\n\n"
+
+        "Component elevations.\n\n"
+
+        "The resting elevation for a component type is consistent across apps (e.g., FAB elevation "
+        "does not vary from 6dp in one app to 16dp in another app).\n"
+        "Components may have different resting elevations across platforms, depending on the depth "
+        "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n"
+
+        "Responsive elevation and dynamic elevation offsets.\n\n"
+
+        "Some component types have responsive elevation, meaning they change elevation in response "
+        "to user input (e.g., normal, focused, and pressed) or system events. These elevation "
+        "changes are consistently implemented using dynamic elevation offsets.\n"
+        "Dynamic elevation offsets are the goal elevation that a component moves towards, relative "
+        "to the component’s resting state. They ensure that elevation changes are consistent "
+        "across actions and component types. For example, all components that lift on press have "
+        "the same elevation change relative to their resting elevation.\n"
+        "Once the input event is completed or cancelled, the component will return to its resting "
+        "elevation.\n\n"
+
+        "Avoiding elevation interference.\n\n"
+
+        "Components with responsive elevations may encounter other components as they move between "
+        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
+        "through other material, components avoid interfering with one another any number of ways, "
+        "whether on a per component basis or using the entire app layout.\n"
+        "On a component level, components can move or be removed before they cause interference. "
+        "For example, a floating action button (FAB) can disappear or move off screen before a "
+        "user picks up a card, or it can move if a snackbar appears.\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+    <string name="title_activity_new_developer">NewDeveloperActivity</string>
+
+</resources>
